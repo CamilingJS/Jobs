@@ -1,0 +1,26 @@
+{
+  "name": "jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilingJS/Jobs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamilingJS/Jobs/issues"
+  },
+  "homepage": "https://github.com/CamilingJS/Jobs#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "google-auth-library": "^9.13.0",
+    "google-spreadsheet": "^4.1.2"
+  },
+  "type": "module"
+}
